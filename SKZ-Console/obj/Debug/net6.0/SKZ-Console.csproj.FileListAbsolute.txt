@@ -1,0 +1,14 @@
+C:\Users\Shanekilz\code\Learning\SKZ-Console\SKZ-Console\bin\Debug\net6.0\SKZ-Console.exe
+C:\Users\Shanekilz\code\Learning\SKZ-Console\SKZ-Console\bin\Debug\net6.0\SKZ-Console.deps.json
+C:\Users\Shanekilz\code\Learning\SKZ-Console\SKZ-Console\bin\Debug\net6.0\SKZ-Console.runtimeconfig.json
+C:\Users\Shanekilz\code\Learning\SKZ-Console\SKZ-Console\bin\Debug\net6.0\SKZ-Console.dll
+C:\Users\Shanekilz\code\Learning\SKZ-Console\SKZ-Console\bin\Debug\net6.0\SKZ-Console.pdb
+C:\Users\Shanekilz\code\Learning\SKZ-Console\SKZ-Console\obj\Debug\net6.0\SKZ-Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shanekilz\code\Learning\SKZ-Console\SKZ-Console\obj\Debug\net6.0\SKZ-Console.AssemblyInfoInputs.cache
+C:\Users\Shanekilz\code\Learning\SKZ-Console\SKZ-Console\obj\Debug\net6.0\SKZ-Console.AssemblyInfo.cs
+C:\Users\Shanekilz\code\Learning\SKZ-Console\SKZ-Console\obj\Debug\net6.0\SKZ-Console.csproj.CoreCompileInputs.cache
+C:\Users\Shanekilz\code\Learning\SKZ-Console\SKZ-Console\obj\Debug\net6.0\SKZ-Console.dll
+C:\Users\Shanekilz\code\Learning\SKZ-Console\SKZ-Console\obj\Debug\net6.0\refint\SKZ-Console.dll
+C:\Users\Shanekilz\code\Learning\SKZ-Console\SKZ-Console\obj\Debug\net6.0\SKZ-Console.pdb
+C:\Users\Shanekilz\code\Learning\SKZ-Console\SKZ-Console\obj\Debug\net6.0\SKZ-Console.genruntimeconfig.cache
+C:\Users\Shanekilz\code\Learning\SKZ-Console\SKZ-Console\obj\Debug\net6.0\ref\SKZ-Console.dll
